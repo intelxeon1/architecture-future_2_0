@@ -15,4 +15,4 @@
 | Platforms & Infrastructure | Trial   | Data Hub        | ▲     |
 | Platforms & Infrastructure | Adopt   | Spark           | ▲     |
 | Tools                | Adopt   | Airflow          | ▲     |
-| Tools                | Adopt   | Power BI         | →     |
+| Tools                | Adopt   | Power BI         | →     | 
